@@ -1,0 +1,63 @@
+# Caches and bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+.env
+.envrc
+.python-version
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Training runs / logs / work_dirs
+work_dirs/
+runs/
+logs/
+*.log
+
+# Large binary artefacts — live on Figshare, NOT GitHub
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+data/raw/
+data/frames/
+data/masks/
+data/annotations/*.png
+data/routes/*.mp4
+data/routes/*.avi
+data/splits/*.txt
+results/
+*.parquet
+*.feather
+
+# Allow lightweight Markdown / TXT placeholders inside pointer dirs
+!data/**/README.md
+!data/**/*.md
+!checkpoints/README.md
+!checkpoints/EXPECTED.txt

@@ -1,0 +1,60 @@
+## Body figures
+assets/figures_paper/fig1_adas_prototype_a.png
+assets/figures_paper/fig1_adas_prototype_b.png
+assets/figures_paper/fig2_mtl_architectures_a.png
+assets/figures_paper/fig2_mtl_architectures_b.png
+assets/figures_paper/fig3_annotations_a.png
+assets/figures_paper/fig3_annotations_b.png
+assets/figures_paper/fig3_annotations_c.png
+assets/figures_paper/fig4_architecture_a.png
+assets/figures_paper/fig4_architecture_b.png
+assets/figures_paper/fig4_architecture_c.png
+assets/figures_paper/fig5_clockwork.png
+assets/figures_paper/fig6_pipeline.png
+assets/figures_paper/fig7_training_curves.png
+assets/figures_paper/fig8_feature_variation.png
+assets/figures_paper/fig9_accuracy_fps_a.png
+assets/figures_paper/fig9_accuracy_fps_b.png
+assets/figures_paper/fig10_miou_boxplot.png
+
+## Trajectory graphs
+assets/figures_paper/trajectory_graph_A.png
+assets/figures_paper/trajectory_graph_B.png
+
+## Confusion matrices
+assets/confusion_matrices/cm_A_acw.png
+assets/confusion_matrices/cm_A_dff.png
+assets/confusion_matrices/cm_A_fcw.png
+assets/confusion_matrices/cm_A_llm.png
+assets/confusion_matrices/cm_B_acw.png
+assets/confusion_matrices/cm_B_dff.png
+assets/confusion_matrices/cm_B_fcw.png
+assets/confusion_matrices/cm_B_llm.png
+
+## Qualitative overlays — Route A
+assets/qualitative/qual_A_10_acw.png
+assets/qualitative/qual_A_10_dff.png
+assets/qualitative/qual_A_10_fcw.png
+assets/qualitative/qual_A_10_llm.png
+assets/qualitative/qual_A_35_acw.png
+assets/qualitative/qual_A_35_dff.png
+assets/qualitative/qual_A_35_fcw.png
+assets/qualitative/qual_A_35_llm.png
+assets/qualitative/qual_A_90_acw.png
+assets/qualitative/qual_A_90_dff.png
+assets/qualitative/qual_A_90_fcw.png
+assets/qualitative/qual_A_90_llm.png
+
+## Qualitative overlays — Route B
+assets/qualitative/qual_B_15_acw.png
+assets/qualitative/qual_B_15_dff.png
+assets/qualitative/qual_B_15_fcw.png
+assets/qualitative/qual_B_15_llm.png
+assets/qualitative/qual_B_30_acw.png
+assets/qualitative/qual_B_30_dff.png
+assets/qualitative/qual_B_30_fcw.png
+assets/qualitative/qual_B_30_llm.png
+assets/qualitative/qual_B_60_acw.png
+assets/qualitative/qual_B_60_dff.png
+assets/qualitative/qual_B_60_fcw.png
+assets/qualitative/qual_B_60_llm.png

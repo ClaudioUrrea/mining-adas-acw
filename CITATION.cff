@@ -1,0 +1,74 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software via these metadata."
+type: software
+title: "Mining-ADAS-ACW: Reference implementation of classification-guided Adaptive Clockwork multitask perception for open-pit mining"
+abstract: >-
+  Official source code for a video-based multitask scene-perception pipeline
+  for open-pit mining ADAS that combines drivable-area semantic segmentation
+  and steering-direction classification within a single BiSeNetV1 backbone.
+  Introduces Adaptive Clockwork (A-CW), a classification-guided inference
+  policy that updates the slow Context Path only on keyframes whose cadence is
+  decided online by a learned scheduler. Ships clean baselines for
+  Frame-by-Frame, Fixed Clockwork, Deep Feature Flow and Low-Latency Method
+  on the same backbone, plus end-to-end FPS benchmarks and a simulated
+  1080x720 HMI rendering module.
+authors:
+  - family-names: "Urrea"
+    given-names: "Claudio"
+    orcid: "https://orcid.org/0000-0001-7197-8928"
+    affiliation: "Electrical Engineering Department, Faculty of Engineering, University of Santiago of Chile"
+    email: "claudio.urrea@usach.cl"
+  - family-names: "Vélez"
+    given-names: "Maximiliano"
+    orcid: "https://orcid.org/0009-0007-4171-4148"
+    affiliation: "Electrical Engineering Department, Faculty of Engineering, University of Santiago of Chile"
+    email: "maximiliano.velezm@usach.cl"
+version: "1.0.0"
+date-released: "2026-05-15"
+license: MIT
+repository-code: "https://github.com/ClaudioUrrea/mining-adas-acw"
+url: "https://github.com/ClaudioUrrea/mining-adas-acw"
+keywords:
+  - onboard remote sensing
+  - open-pit mining perception
+  - multitask scene understanding
+  - drivable area segmentation
+  - video semantic segmentation
+  - adaptive temporal inference
+  - feature reuse
+  - real-time image processing
+  - driver support system
+  - deep learning
+  - BiSeNet
+preferred-citation:
+  type: article
+  title: "Efficient Video-Based Multitask Scene Perception from Onboard Remote Sensing Imagery for Open-Pit Mining ADAS Using Classification-Guided Adaptive Inference"
+  authors:
+    - family-names: "Urrea"
+      given-names: "Claudio"
+      orcid: "https://orcid.org/0000-0001-7197-8928"
+    - family-names: "Vélez"
+      given-names: "Maximiliano"
+      orcid: "https://orcid.org/0009-0007-4171-4148"
+  journal: "Remote Sensing"
+  publisher:
+    name: "MDPI"
+  volume: 1
+  issue: 1
+  start: 0
+  year: 2026
+  doi: "10.3390/rs1010000"
+  url: "https://doi.org/10.3390/rs1010000"
+references:
+  - type: data
+    title: "Mining-ADAS-ACW: Dataset, Checkpoints, and Reproducibility Bundle"
+    authors:
+      - family-names: "Urrea"
+        given-names: "Claudio"
+      - family-names: "Vélez"
+        given-names: "Maximiliano"
+    year: 2026
+    doi: "10.6084/m9.figshare.32274630"
+    url: "https://doi.org/10.6084/m9.figshare.32274630"
+    publisher:
+      name: "Figshare"
