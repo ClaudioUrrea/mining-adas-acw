@@ -7,10 +7,6 @@ Official source code accompanying the paper:
 > *Efficient Multitask Onboard Vision Sensing for Open-Pit Mining ADAS with Classification-Guided Adaptive Temporal Inference.*
 > **Sensors**, MDPI. <https://doi.org/10.3390/s1010000>
 
-> **Urrea, C.; Vélez, M.** (2026)
-> *Efficient Video-Based Multitask Scene Perception from Onboard Remote Sensing Imagery for Open-Pit Mining ADAS Using Classification-Guided Adaptive Inference.*
-> **Sensors**, MDPI. <https://doi.org/10.3390/rs1010000>
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Figshare DOI](https://img.shields.io/badge/Figshare-10.6084%2Fm9.figshare.32274630-blue)](https://doi.org/10.6084/m9.figshare.32274630)
