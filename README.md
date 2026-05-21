@@ -157,29 +157,16 @@ The mapping from every paper figure/table to its generating notebook is in [`doc
 
 ```bibtex
 @article{Urrea2026MiningADAS,
-<<<<<<< HEAD
   title   = {Efficient Multitask Onboard Vision Sensing for Open-Pit Mining
              ADAS with Classification-Guided Adaptive Temporal Inference},
   author  = {V{\'e}lez, Maximiliano and Urrea, Claudio},
   journal = {Sensors},
-=======
-  title   = {Efficient Video-Based Multitask Scene Perception from Onboard
-             Remote Sensing Imagery for Open-Pit Mining ADAS Using
-             Classification-Guided Adaptive Inference},
-  author  = {Urrea, Claudio and V{\'e}lez, Maximiliano},
-  journal = {Remote Sensing},
->>>>>>> 521ac3cfc9101ffd85e43e993e8b43b771fee9a2
   year    = {2026},
   volume  = {1},
   number  = {1},
   pages   = {0},
-<<<<<<< HEAD
   doi     = {10.3390/s1010000},
   url     = {https://doi.org/10.3390/s1010000}
-=======
-  doi     = {10.3390/rs1010000},
-  url     = {https://doi.org/10.3390/rs1010000}
->>>>>>> 521ac3cfc9101ffd85e43e993e8b43b771fee9a2
 }
 
 @misc{Urrea2026MiningADASFigshare,
