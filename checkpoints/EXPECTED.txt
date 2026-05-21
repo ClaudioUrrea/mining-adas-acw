@@ -1,0 +1,19 @@
+# Expected checkpoint files inside this directory after extracting the
+# companion Figshare bundle. Each is accompanied by a sibling
+# <basename>_metadata.json describing framework versions and SHA-256.
+#
+# Multitask
+multitask_BC_iter_25600.pth
+multitask_BS_iter_33400.pth
+
+# Single-task baselines
+seg_only_best_miou.pth
+cls_only_best_top1.pth
+
+# Adaptive Clockwork (two-stage training)
+acw_propagation_iter_2200.pth
+acw_scheduler_iter_16200.pth
+
+# Temporal-policy baselines
+dff_iter_XXXX.pth
+llm_iter_XXXX.pth
